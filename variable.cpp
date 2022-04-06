@@ -4,6 +4,6 @@ using namespace std;
 
 int main() { //begin of function
 
-    cout<<"Jesshen Christian Citradi"
+    cout<<"Jesshen Christian Citradi";
 
 }//end of function
